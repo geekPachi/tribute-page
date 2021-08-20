@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://img.lovepik.com/photo/50070/8640.jpg_wh860.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+div{
+    text-align: center;
+    color:darkblue;
+}
+#color{
+    color:black;
+    font-size: 30px;
+    
+}
+#border{
+    border-radius: 100px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+}
+
+*{
+    box-sizing: border-box;
+}
+#text{
+    color:black;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
